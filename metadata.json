@@ -1,0 +1,5 @@
+{
+  "name": "Sentiment Analysis Studio",
+  "description": "An AI-powered sentiment analysis, toxicity classification, and natural language analytics suite.",
+  "requestFramePermissions": []
+}
